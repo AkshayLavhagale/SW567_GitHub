@@ -15,7 +15,7 @@ class TestMain(unittest.TestCase):
         self.assertEqual(HW04a_AkshayLavhagale.github_handle('AkshayLavhagale'), {'Fractions': 1, 'helloworld': 1,
                                                                                   'knn': 1, 'K_Means_Clustering': 1,
                                                                                   'Linear-Regression': 1, 'SE_540': 1,
-                                                                                  'svm': 1, 'SW567_GitHub': 14,
+                                                                                  'svm': 1, 'SW567_GitHub': 16,
                                                                                   'SW_567_HW_01': 2,
                                                                                   'Testing': 1, 'Triangle567': 5})
 
